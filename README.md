@@ -8,12 +8,24 @@
 ### Hi there 👋
 
 
-### Meu nome é Pedro Lourenço...
+### Quem sou eu?
 
 Sou padawan de Ciência de Dados, entusiasta de tecnologias que envolvam Inteligência Artificial, e apaixonado por tecnologias voltadas a preservação ambiental!
 
-- 💚 **Techs:** Linux, Pentaho, SAS, JS, React, Node, Deno, TypeScript, Python, MySql, SQLserver, Mongodb, Firebase e etc...
-- 🎓 **Estudando:** Ciência de Dados
+🖥️ **Techs:** 
+- Linux
+- Pentaho
+- SAS
+- JS (React, Node, Deno)
+- TypeScript
+- Python
+- SQL (MySql, SQLserver, Mongodb, Firebase e etc...)
+
+🎓 **Estudando:** 
+- Ciência de Dados
+- Linux
+- Python
+- JS
 
 ----
 
