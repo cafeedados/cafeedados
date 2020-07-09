@@ -10,10 +10,10 @@
 
 ### Meu nome é Pedro Lourenço...
 
-Sou padawan de Ciência de Dados, entusiasta de tecnologias que envolvam InteligÊncia Artificial, e apaixonado por tecnologias voltadas a preservação ambiental!
+Sou padawan de Ciência de Dados, entusiasta de tecnologias que envolvam Inteligência Artificial, e apaixonado por tecnologias voltadas a preservação ambiental!
 
-- 💚 Techs: Linux, Pentaho, SAS, JS, React, Node, Deno, TypeScript, Python, MySql, SQLserver, Mongodb, Firebase e etc...
-- 🎓 Estudando: Ciência de Dados
+- 💚 **Techs:** Linux, Pentaho, SAS, JS, React, Node, Deno, TypeScript, Python, MySql, SQLserver, Mongodb, Firebase e etc...
+- 🎓 **Estudando:** Ciência de Dados
 
 ----
 
