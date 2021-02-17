@@ -8,9 +8,10 @@
 ### Hi there 👋
 
 
-### Quem sou eu?
+### Who am I?
 
-Sou padawan de Ciência de Dados, entusiasta de tecnologias que envolvam Inteligência Artificial, e apaixonado por tecnologias voltadas a preservação ambiental!
+I'm a Data Science padawan, enthusiast of technologies involving Artificial Intelligence, and passionate about technologies aimed at environmental preservation!
+I work as a Data Engineer at Ernest & Young (** EY **)
 
 🖥️ **Techs:** 
 - Linux
@@ -20,18 +21,15 @@ Sou padawan de Ciência de Dados, entusiasta de tecnologias que envolvam Intelig
 - TypeScript
 - Python
 - SQL (MySql, SQLserver, Mongodb, Firebase e etc...)
+- Azure Cloud (Databriks, Data Factory e etc...)
 
-🎓 **Estudando:** 
-- Ciência de Dados
-- Linux
-- Python
-- JS
+
 
 ----
 
 
 >
-"Quando eu estava na escola, o computador era uma coisa muito assustadora. As pessoas falavam em desafiar aquela máquina do mal que estava sempre fazendo contas que não pareciam corretas. E ninguém pensou naquilo como uma ferramenta poderosa."
+"When I was at school, the computer was a very scary thing. People talked about challenging that evil machine that was always doing math that didn't seem right. And nobody thought of it as a powerful tool."
 
 Bill Gates
 >
