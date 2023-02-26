@@ -1,4 +1,4 @@
-## Olá! sou o Pedro Lourenço 
+## Olá! sou o Lourenço 
  <div>
   <a href="https://github.com/cafeedados">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cafeedados&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
