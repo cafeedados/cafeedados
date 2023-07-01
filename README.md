@@ -2,15 +2,14 @@
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Lourenço</h1>
-[EN]
+**[EN]**
 <p align = "justify">
 I have a degree in Data Science, and a postgraduate degree in Data Engineering, an MBA in Data Science and currently studying a Master's Degree in Computer Science with a focus on Bigdata research.
   
 Professional experience in Data Engineering in major market players such as Ernes & Young and Banco BTG Pactual. with extensive experience in bigdata, development of pipelines in both cloud and on-premises. Relative experience in fullstack development with python. He currently holds the position of Senior Data Engineer at BTG Pactual [BTG Pactual](https://www.btgpactual.com/).
 
 I am passionate and enthusiastic about new technologies, involving artificial intelligence, bigdata, development and so on. And interest in the financial, health, agribusiness and environment sectors.
-
-[PT-BR]
+**[PT-BR]**
 <p align = "justify">
 Sou graduado em Ciência de Dados, e com pós graduação em Engenharia de dados, MBA em Ciência de Dados e autalmente cursando Mestrado em Ciências da Computação com foco na linha de pesquisa em Bigdata.
   
