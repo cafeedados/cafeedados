@@ -23,11 +23,3 @@ Sou apaixonado em Ciência e Tecnologia.
 
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,gitlab,ae,ai,ps,aws,gcp,azure,py,pytorch,anaconda,django,fastapi,flask,opencv,sklearn,regex,tensorflow,r,c,cpp,bash,powershell,kafka,cassandra,dynamodb,mongodb,mysql,redis,postgres,grafana,kubernetes,docker,terraform,jenkins,linux,debian,ubuntu,windows,apple,notion,postman,vscode&theme=light)](https://skillicons.dev)
-
-
-
-## ⚡ GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafeedados&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafeedados&hide=TeX&layout=compact&theme=dracula)
-
